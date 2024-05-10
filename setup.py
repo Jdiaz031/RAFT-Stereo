@@ -10,7 +10,6 @@ setup(
         'opencv-python',
         'matplotlib',
         'tensorboard',
-<<<<<<< HEAD
         'scipy',
         'opt_einsum',
         'glob',
