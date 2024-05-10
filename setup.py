@@ -10,14 +10,14 @@ setup(
         'opencv-python',
         'matplotlib',
         'tensorboard',
+<<<<<<< HEAD
         'scipy',
-        'numpy',
-        'Pillow',
+        'opt_einsum',
+        'glob',
         'skimage',
+        'Pillow',
         'imageio',
-        'scipy',
-        'logging',
-        'opt_einsum'
+        'numpy'
     ]
 )
 
